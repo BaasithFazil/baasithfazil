@@ -1,7 +1,7 @@
 ### Hi there 👋. This is Baasith from Sri Lanka. Iam a junior software tester with a strong basic testing fundamentals. Since 
 
 
-![Baasith's GitHub stats](https://github-readme-stats.vercel.app/api?username=baasithfazil&show_icons=true)
+![Baasith's GitHub stats](https://github-readme-stats.vercel.app/api?username=baasithfazil&show_icons=true&theme=radical)
 
 
 <!--
