@@ -3,13 +3,13 @@
 
 ![Baasith's GitHub stats](https://github-readme-stats.vercel.app/api?username=baasithfazil&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on **univiser.io**
+- 🔭 I’m currently working on **London Stock Exchange Group**
 
 - 🌱 I’m currently learning **Cypress, Selenium and API Testing**
 
 - 👯 I’m looking to collaborate on **Testing Managements**
 
-- 🤝 I’m looking for help with **Senior QA Tester**
+- 🤝 I’m looking for help with **Senior QA Tester/Team Lead**
 
 - 📝 I regularly write articles on [https://medium.com/@baasithfazil](https://medium.com/@baasithfazil)
 
